@@ -1,7 +1,7 @@
 
 #For Service now
 snowuser = 'admin'
-snowpwd = 'Welcome001;'
+snowpwd = '**'
 
 # For gmail
 fromaddr = "myofficework92@gmail.com"
