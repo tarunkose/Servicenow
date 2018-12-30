@@ -6,4 +6,4 @@ snowpwd = 'Welcome001;'
 # For gmail
 fromaddr = "myofficework92@gmail.com"
 toaddr = "letmetp@gmail.com"
-pwd = "Welcome001;"
+pwd = "****"
